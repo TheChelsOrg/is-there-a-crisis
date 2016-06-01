@@ -53,12 +53,12 @@ body {
   line-height: 1.5; 
   background: #71BF45;
   font-family: 'Source Code Pro','Raleway','Helvetica Neue', Helvetica, Arial, serif;
-  linear-gradient(to right, rgba(255,255,255,0) 50%, #FFFFFF 50%)
   color: #ffffff;
 }
 
 a {
   color: #ededed;
+  linear-gradient(to right, rgba(255,255,255,0) 50%, #FFFFFF 50%)
 }
 a:hover {
   color: #fff;
@@ -90,6 +90,8 @@ header h2 {
 .inner {
   width: 620px;
   margin: 0 auto;
+  border-left: 10px solid #000;
+  padding: 0 0 0 30px;
 }
 
 #container .inner img {
@@ -125,26 +127,18 @@ p a {
   font-weight: 400;
 }
 
-.blockquote {
-  font-size: 1.6em;
-  border-left: 10px solid #000;
-  margin-bottom: 20px;
-  padding: 0 0 0 30px;
-}
-
 footer {
   margin-top: 40px;
   padding-top: 20px;
   padding-bottom: 30px;
   font-size: 12px;
-  color: #363636;
 }
 
 footer a {
-  color: #666;
+  color: #ededed;
 }
 footer a:hover {
-  color: #444;
+  color: #efefef;
 }
 
 /* MISC */
