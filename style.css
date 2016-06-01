@@ -111,7 +111,7 @@ footer a {
 }
 footer a:hover {
   color: #fff;
-  background-image: linear-gradient(to right, rgba(255,255,255,0) 50%, #FFFFFF 50%);
+  background-image: linear-gradient(to right, rgba(255,255,255,0) 100%, #FFFFFF 100%);
     transition: background-position 0.5s ease-out;
     -webkit-transition: background-position 0.5s ease-out;
 }
