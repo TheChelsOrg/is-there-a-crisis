@@ -45,12 +45,11 @@ body {
 }
 
 a {
-  color: #ededed;
-  background-image: linear-gradient(to right, rgba(255,255,255,0) 50%, #FFFFFF 50%)
-}
-a:hover {
   color: #fff;
-  background-image: linear-gradient(to right, rgba(255,255,255,0) 50%, #000000 50%)
+}
+
+a:hover {
+  background-image: linear-gradient(to right, rgba(0,0,0,0) 50%, #000000 50%)
 }
 
 header {
