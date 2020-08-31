@@ -1,6 +1,6 @@
  # importing modules
 import tweepy
-import json
+import csv
 import time
 import random
 import pathlib
@@ -31,15 +31,17 @@ auth.set_access_token(access_token, access_token_secret)
 api = tweepy.API(auth)
 
 # processing
-with open('js/data.json') as data:
- reader = json.load(data)
- data_item_row = random.choice(list(reader))
- data_item_value = data_item_row[1]
+with open('data.csv') as csvfile:
+ reader = csv.DictReader(csvfile)
+ random_row = random.choice(list(reader))
+ data_item_text = random_row['text']
 
 if __name__ == "__main__":
     readme = root / "README.md"
     readme_contents = readme.open().read()
-    rewritten = replace_chunk(readme_contents, "crisis_item", data_item_value)
+    rewritten = replace_chunk(readme_contents, "crisis_item", data_item_text)
     readme.open("w").write(rewritten)
 
-#    api.update_status(status = "#CrisisChelsea Today's crisis at Chelsea is " + data_item_value)     
+    print (data_item_text)
+
+    api.update_status(status = "#CrisisChelsea Today's crisis at Chelsea is " + data_item_text)     
