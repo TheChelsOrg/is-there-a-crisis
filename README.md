@@ -2,9 +2,9 @@
 
 Yes
 
-<!-- crisis_item start-->
+<!-- crisis_item starts -->
 
-<!-- crisis_item close-->
+<!-- crisis_item ends -->
 
 
 --- 
