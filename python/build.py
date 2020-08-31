@@ -34,12 +34,13 @@ api = tweepy.API(auth)
 with open('js/data.json') as data:
  reader = json.loads(data)
  data_item = random.choice(list(reader))
- 
+ data_item_value = data_item.value();
+
 
 if __name__ == "__main__":
     readme = root / "README.md"
     readme_contents = readme.open().read()
-    rewritten = replace_chunk(readme_contents, "crisis_item", data_item)
+    rewritten = replace_chunk(readme_contents, "crisis_item", data_item_value)
     readme.open("w").write(rewritten)
 
-#    api.update_status(status = "#CrisisChelsea Today's crisis at Chelsea is " + data_item)     
+#    api.update_status(status = "#CrisisChelsea Today's crisis at Chelsea is " + data_item_value)     
