@@ -33,8 +33,9 @@ api = tweepy.API(auth)
 # processing
 with open('js/data.json') as data:
  reader = json.load(data)
- data_item = random.choice(list(reader))
- data_item_value = data_item.value
+ data_item_row = random.choice(list(reader))
+ for key, value in data_item_row():
+     data_item_value = value
 
 if __name__ == "__main__":
     readme = root / "README.md"
