@@ -42,4 +42,4 @@ if __name__ == "__main__":
     rewritten = replace_chunk(readme_contents, "crisis_item", data_item)
     readme.open("w").write(rewritten)
 
-    api.update_status(status = "#CrisisChelsea Today's crisis at Chelsea is " + data_item)     
+#    api.update_status(status = "#CrisisChelsea Today's crisis at Chelsea is " + data_item)     
