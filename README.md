@@ -1,6 +1,4 @@
-# Is there a crisis at Chelsea
-
-Yes
+Yes,
 
 <!-- crisis_item starts -->
 
