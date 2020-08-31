@@ -1,6 +1,6 @@
-# Is there a crisis at Chelsea?
+# Is there a crisis at Chelsea
 
-Yes, 
+Yes
 
-<!-- random_item_start-->
-<!-- random_item_close-->
+<!-- crisis_item start-->
+<!-- crisis_item close-->
