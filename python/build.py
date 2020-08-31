@@ -32,7 +32,7 @@ api = tweepy.API(auth)
 
 # processing
 with open('js/data.json') as data:
- reader = json.loads(data)
+ reader = json.dumps(data)
  data_item = random.choice(list(reader))
  data_item_value = data_item.value
 
