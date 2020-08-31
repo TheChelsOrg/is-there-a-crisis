@@ -1,7 +1,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-
+because Manchester has all the money
 <!-- crisis_item ends -->
 
 
