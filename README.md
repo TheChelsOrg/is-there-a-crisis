@@ -15,4 +15,4 @@ because Manchester has all the money
 
 Follow [Chelsea Puzzles](https://twitter.com/ChelseaPuzzles) on Twitter for daily updates.
 
-![Daily Build](https://github.com/TheChelsOrg/is_there_a_crisis/workflows/Daily%20Build/badge.svg)
+![Daily Build](https://github.com/TheChelsOrg/isthereacrisis.thechels.uk/workflows/Daily%20Build/badge.svg)
