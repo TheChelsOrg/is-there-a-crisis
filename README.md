@@ -7,7 +7,7 @@ __Is there a crisis at Chelsea?__
 Yes,
 
 <!-- crisis_item starts -->
-because Manchester has all the money
+because injured goalkeeper(s)
 <!-- crisis_item ends -->
 
 
