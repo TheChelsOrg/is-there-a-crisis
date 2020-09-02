@@ -7,7 +7,7 @@ __Is there a crisis at Chelsea?__
 Yes,
 
 <!-- crisis_item starts -->
-because injured goalkeeper(s)
+because swearing at Roberto Martinez
 <!-- crisis_item ends -->
 
 
