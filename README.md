@@ -7,7 +7,7 @@ __Is there a crisis at Chelsea?__
 Yes,
 
 <!-- crisis_item starts -->
-because swearing at Roberto Martinez
+because twitter said so
 <!-- crisis_item ends -->
 
 
