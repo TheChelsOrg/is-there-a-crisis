@@ -1,12 +1,6 @@
 name: Linter
 # https://help.github.com/en/articles/workflow-syntax-for-github-actions
-on:
-  push:
-    branches-ignore: [master, Main]
-  pull_request:
-    branches: [master, Main]
-  workflow_dispatch:
-    branches: [master, Main]
+on: [pull_request, workflow_dispatch]
 jobs:
   build:
     name: Linter
@@ -18,5 +12,5 @@ jobs:
         uses: github/super-linter@v3
         env:
           VALIDATE_ALL_CODEBASE: false
-          DEFAULT_BRANCH: master
+          DEFAULT_BRANCH: gh-pages
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
