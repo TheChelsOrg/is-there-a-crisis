@@ -7,7 +7,7 @@ __Is there a crisis at Chelsea?__
 Yes,
 
 <!-- crisis_item starts -->
-because twitter said so
+because shit players are less shit when on loan overseas
 <!-- crisis_item ends -->
 
 
