@@ -4,9 +4,9 @@ We really appreciate your contribution, to ensure your change gets accepted plea
 
 Many Thanks
 
-TheChels Team
+---
 
-- [ ] Please delete the above message before submitting your pull request
+- [ ] Please delete the above message and line before submitting your pull request
 - [ ] Ensure, where possible your change includes tests
 - [ ] Ensure, where possible documentation is updated (readme, wiki)
 - [ ] Commit messages matches the commit message criteria
