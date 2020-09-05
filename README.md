@@ -7,7 +7,7 @@ __Is there a crisis at Chelsea?__
 Yes,
 
 <!-- crisis_item starts -->
-because shit players are less shit when on loan overseas
+because Roberto Martinez is unhappy                    	
 <!-- crisis_item ends -->
 
 
