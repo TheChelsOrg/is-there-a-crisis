@@ -7,7 +7,7 @@ __Is there a crisis at Chelsea?__
 Yes,
 
 <!-- crisis_item starts -->
-because Roberto Martinez is unhappy                    	
+because player would rather lose than win for Mourinho
 <!-- crisis_item ends -->
 
 
