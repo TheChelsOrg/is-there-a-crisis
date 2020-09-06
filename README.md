@@ -1,17 +1,14 @@
-
-__Is there a crisis at Chelsea?__
+# Is there a crisis at Chelsea
 
 ---
-
 
 Yes,
 
 <!-- crisis_item starts -->
-because Roberto Martinez is unhappy                    	
+because Roberto Martinez is unhappy
 <!-- crisis_item ends -->
 
-
---- 
+---
 
 Follow [Chelsea Puzzles](https://twitter.com/ChelseaPuzzles) on Twitter for daily updates.
 
