@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because one win in seven under Mourinho
+because we haven't announced kai yet
 <!-- crisis_item ends -->
 
 ---
