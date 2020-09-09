@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because we haven't announced kai yet
+because starting the season W3 D2 L6
 <!-- crisis_item ends -->
 
 ---
