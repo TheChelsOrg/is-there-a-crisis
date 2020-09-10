@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because starting the season W3 D2 L6
+because we switched to 3-4-3
 <!-- crisis_item ends -->
 
 ---
