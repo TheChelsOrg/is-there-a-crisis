@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because TBO got megged twice by Messi
+because financial fair play
 <!-- crisis_item ends -->
 
 ---
