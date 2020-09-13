@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because financial fair play
+because Jose Mourinho is at Man Utd
 <!-- crisis_item ends -->
 
 ---
