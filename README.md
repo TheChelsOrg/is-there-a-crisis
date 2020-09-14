@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because Jose Mourinho is at Man Utd
+because Ken Bates wanted electric fences
 <!-- crisis_item ends -->
 
 ---
