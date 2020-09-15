@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because Ken Bates wanted electric fences
+because two defeats in first 100 Premier League home games under Mourinho
 <!-- crisis_item ends -->
 
 ---
