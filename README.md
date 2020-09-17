@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because Eden Hazard is already in Paris/Madrid
+because Eva Carneiro
 <!-- crisis_item ends -->
 
 ---
