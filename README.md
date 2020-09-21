@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because Diego Costa has self control (unlike Gabriel)
+because we switched to 3-5-2
 <!-- crisis_item ends -->
 
 ---
