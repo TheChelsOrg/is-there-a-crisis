@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because we switched to 3-5-2
+because Diego Costa threw his bib
 <!-- crisis_item ends -->
 
 ---
