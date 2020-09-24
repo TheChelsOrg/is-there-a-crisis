@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because shit players are less shit when on loan overseas
+because Jose Mourinho
 <!-- crisis_item ends -->
 
 ---
