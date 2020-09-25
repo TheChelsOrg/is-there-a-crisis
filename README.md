@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because Jose Mourinho
+because not winning 14th game in a row
 <!-- crisis_item ends -->
 
 ---
