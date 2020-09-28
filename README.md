@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because TBO got megged twice by Messi
+because David Luiz joined Arsenal
 <!-- crisis_item ends -->
 
 ---
