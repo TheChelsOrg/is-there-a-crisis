@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because John Terry took criticism from Rio Scholes and Neville but not from Robbie Savage
+because Roberto Martinez is unhappy
 <!-- crisis_item ends -->
 
 ---
