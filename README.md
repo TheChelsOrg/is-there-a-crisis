@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because right to light
+because Wayne Bridge
 <!-- crisis_item ends -->
 
 ---
