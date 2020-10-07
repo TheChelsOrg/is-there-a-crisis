@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because Wayne Bridge
+because ticket prices
 <!-- crisis_item ends -->
 
 ---
