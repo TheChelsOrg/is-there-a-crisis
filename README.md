@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because Chris Foy			
+because of Youtubers outside the Bridge
 <!-- crisis_item ends -->
 
 ---
