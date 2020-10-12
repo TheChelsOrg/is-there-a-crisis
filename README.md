@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because injured goalkeeper(s)
+because Roberto Martinez is unhappy
 <!-- crisis_item ends -->
 
 ---
