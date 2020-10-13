@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because Roberto Martinez is unhappy
+because Adrian Mutu
 <!-- crisis_item ends -->
 
 ---
