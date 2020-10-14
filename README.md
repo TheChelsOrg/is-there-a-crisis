@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because Adrian Mutu
+because Chelsea breaking FFP rules by spending over £200 million on Werner et al
 <!-- crisis_item ends -->
 
 ---
