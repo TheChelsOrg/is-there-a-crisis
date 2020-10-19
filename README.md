@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because Manchester has all the money
+because Willian joined Arsenal
 <!-- crisis_item ends -->
 
 ---
