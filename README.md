@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because Ken Bates wanted electric fences
+because VAR does not like Chelsea
 <!-- crisis_item ends -->
 
 ---
