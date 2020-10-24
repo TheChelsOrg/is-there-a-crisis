@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because Paul - a bit racist - Scholes lied when he said we had no English in our youth team
+because we switched to 3-5-2
 <!-- crisis_item ends -->
 
 ---
