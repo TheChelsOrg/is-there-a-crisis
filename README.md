@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because Eva Carneiro
+because transfer window
 <!-- crisis_item ends -->
 
 ---
