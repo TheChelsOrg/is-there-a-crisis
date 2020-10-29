@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because transfer window
+because China has all the money
 <!-- crisis_item ends -->
 
 ---
