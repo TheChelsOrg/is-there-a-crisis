@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because China has all the money
+because signing sub-three million Senegalese defender from France
 <!-- crisis_item ends -->
 
 ---
