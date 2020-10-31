@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because signing sub-three million Senegalese defender from France
+because Gary Cahill drops off
 <!-- crisis_item ends -->
 
 ---
