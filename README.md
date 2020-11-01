@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because Gary Cahill drops off
+because not winning 14th game in a row
 <!-- crisis_item ends -->
 
 ---
