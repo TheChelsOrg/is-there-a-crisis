@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because Jose Mourinho
+because Cesc Fabregas stopped assisting
 <!-- crisis_item ends -->
 
 ---
