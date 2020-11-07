@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because we haven't announced kai yet
+because swearing at Roberto Martinez
 <!-- crisis_item ends -->
 
 ---
