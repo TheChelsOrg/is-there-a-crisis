@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because we haven't announced kai yet
+because Eden Hazard is already in Paris/Madrid
 <!-- crisis_item ends -->
 
 ---
