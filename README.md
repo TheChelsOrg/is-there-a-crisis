@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because Jose Mourinho is at Man Utd
+because swearing at Roberto Martinez
 <!-- crisis_item ends -->
 
 ---
