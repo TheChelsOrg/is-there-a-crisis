@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because swearing at Roberto Martinez
+because Mark Clattenburg
 <!-- crisis_item ends -->
 
 ---
