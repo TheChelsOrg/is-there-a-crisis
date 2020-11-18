@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because dropping Costa for Hazard as a false nine
+because Eden Hazard is already in Paris/Madrid
 <!-- crisis_item ends -->
 
 ---
