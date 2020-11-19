@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because Eden Hazard is already in Paris/Madrid
+because John Terry took criticism from Rio Scholes and Neville but not from Robbie Savage
 <!-- crisis_item ends -->
 
 ---
