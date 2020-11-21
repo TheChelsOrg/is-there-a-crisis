@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because of Youtubers outside the Bridge
+because Diego Costa stopped shooting/scoring
 <!-- crisis_item ends -->
 
 ---
