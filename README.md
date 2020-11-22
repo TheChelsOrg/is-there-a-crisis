@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because Diego Costa stopped shooting/scoring
+because results
 <!-- crisis_item ends -->
 
 ---
