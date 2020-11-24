@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because TBO got megged twice by Messi
+because the secret footballer lies
 <!-- crisis_item ends -->
 
 ---
