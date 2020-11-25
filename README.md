@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because the secret footballer lies
+because Manchester has all the money
 <!-- crisis_item ends -->
 
 ---
