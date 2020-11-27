@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because two defeats in first 100 Premier League home games under Mourinho
+because one win in seven under Mourinho
 <!-- crisis_item ends -->
 
 ---
