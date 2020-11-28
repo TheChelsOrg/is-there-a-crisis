@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because one win in seven under Mourinho
+because twitter said so
 <!-- crisis_item ends -->
 
 ---
