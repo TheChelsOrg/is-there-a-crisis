@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because twitter said so
+because Anthony Taylor
 <!-- crisis_item ends -->
 
 ---
