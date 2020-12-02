@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because Bakayoko red card and losing 4-1 to Watford
+because a trip to Russia one week before the new season
 <!-- crisis_item ends -->
 
 ---
