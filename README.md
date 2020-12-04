@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because Gary Cahill drops off
+because Diego Costa stopped shooting/scoring
 <!-- crisis_item ends -->
 
 ---
