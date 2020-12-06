@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because too many loan players
+because we switched to 3-5-2
 <!-- crisis_item ends -->
 
 ---
