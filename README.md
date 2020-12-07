@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because we switched to 3-5-2
+because Michy scored 5 goals in 3 games for Dortmund
 <!-- crisis_item ends -->
 
 ---
