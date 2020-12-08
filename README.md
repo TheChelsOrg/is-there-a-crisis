@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because Michy scored 5 goals in 3 games for Dortmund
+because Paul - a bit racist - Scholes lied when he said we had no English in our youth team
 <!-- crisis_item ends -->
 
 ---
