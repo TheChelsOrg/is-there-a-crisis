@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because financial fair play
+because signing sub-three million Senegalese defender from France
 <!-- crisis_item ends -->
 
 ---
