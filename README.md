@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because we switched to 3-4-3
+because Adrian Mutu
 <!-- crisis_item ends -->
 
 ---
