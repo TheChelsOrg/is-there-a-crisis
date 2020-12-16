@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because referees
+because Bakayoko red card and losing 4-1 to Watford
 <!-- crisis_item ends -->
 
 ---
