@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because Bakayoko red card and losing 4-1 to Watford
+because too many loan players
 <!-- crisis_item ends -->
 
 ---
