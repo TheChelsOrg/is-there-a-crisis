@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because too many loan players
+because dropping Costa for Hazard as a false nine
 <!-- crisis_item ends -->
 
 ---
