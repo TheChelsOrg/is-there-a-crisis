@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because dropping Costa for Hazard as a false nine
+because Diego Costa stopped shooting/scoring
 <!-- crisis_item ends -->
 
 ---
