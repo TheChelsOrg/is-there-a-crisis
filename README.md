@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because Diego Costa stopped shooting/scoring
+because Jon Fearn
 <!-- crisis_item ends -->
 
 ---
