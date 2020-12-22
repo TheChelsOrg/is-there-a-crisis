@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because Paul - a bit racist - Scholes lied when he said we had no English in our youth team
+because Diego Costa threw his bib
 <!-- crisis_item ends -->
 
 ---
