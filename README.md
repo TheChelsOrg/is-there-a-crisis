@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because Diego Costa threw his bib
+because too many loan players
 <!-- crisis_item ends -->
 
 ---
