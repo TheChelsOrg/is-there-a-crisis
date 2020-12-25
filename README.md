@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because Anthony Taylor
+because medical team
 <!-- crisis_item ends -->
 
 ---
