@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because medical team
+because Wayne Bridge
 <!-- crisis_item ends -->
 
 ---
