@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because Wayne Bridge
+because 'filha da puta'
 <!-- crisis_item ends -->
 
 ---
