@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because Cash For Chelsea 1977
+because Willian joined Arsenal
 <!-- crisis_item ends -->
 
 ---
