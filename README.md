@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because right to light
+because a trip to Russia one week before the new season
 <!-- crisis_item ends -->
 
 ---
