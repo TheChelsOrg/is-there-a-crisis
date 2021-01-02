@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because a trip to Russia one week before the new season
+because Diego Costa threw his bib
 <!-- crisis_item ends -->
 
 ---
