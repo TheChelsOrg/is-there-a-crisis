@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because China has all the money
+because Eva Carneiro
 <!-- crisis_item ends -->
 
 ---
