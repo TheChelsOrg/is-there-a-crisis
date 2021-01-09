@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because results
+because no top players from our youth system
 <!-- crisis_item ends -->
 
 ---
