@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because no top players from our youth system
+because Cash For Chelsea 1977
 <!-- crisis_item ends -->
 
 ---
