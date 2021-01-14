@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because Jon Fearn
+because swearing at Roberto Martinez
 <!-- crisis_item ends -->
 
 ---
