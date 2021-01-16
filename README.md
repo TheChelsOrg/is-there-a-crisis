@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because dropping Costa for Hazard as a false nine
+because injured goalkeeper(s)
 <!-- crisis_item ends -->
 
 ---
