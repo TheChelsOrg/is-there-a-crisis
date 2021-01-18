@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because transfer window
+because Jose Mourinho is at Man Utd
 <!-- crisis_item ends -->
 
 ---
