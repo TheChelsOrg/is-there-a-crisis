@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because Jose Mourinho is at Man Utd
+because TBO got megged twice by Messi
 <!-- crisis_item ends -->
 
 ---
