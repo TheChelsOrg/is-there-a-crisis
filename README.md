@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because the secret footballer lies
+because Roberto Martinez is unhappy
 <!-- crisis_item ends -->
 
 ---
