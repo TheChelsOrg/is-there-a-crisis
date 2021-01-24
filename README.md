@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because John Terry took criticism from Rio Scholes and Neville but not from Robbie Savage
+because we haven't announced kai yet
 <!-- crisis_item ends -->
 
 ---
