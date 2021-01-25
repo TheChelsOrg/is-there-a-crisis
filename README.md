@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because we haven't announced kai yet
+because China has all the money
 <!-- crisis_item ends -->
 
 ---
