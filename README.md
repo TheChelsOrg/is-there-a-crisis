@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because Diego Costa has self control (unlike Gabriel)
+because Paris Metro
 <!-- crisis_item ends -->
 
 ---
