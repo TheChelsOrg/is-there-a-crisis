@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because shit players are less shit when on loan overseas
+because Save The Bridge 1982
 <!-- crisis_item ends -->
 
 ---
