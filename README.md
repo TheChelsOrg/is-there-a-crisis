@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because too many loan players
+because financial fair play
 <!-- crisis_item ends -->
 
 ---
