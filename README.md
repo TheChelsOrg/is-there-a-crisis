@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because financial fair play
+because Michy scored 5 goals in 3 games for Dortmund
 <!-- crisis_item ends -->
 
 ---
