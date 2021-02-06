@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because drawing 5 games in a row in 2018
+because Willian joined Arsenal
 <!-- crisis_item ends -->
 
 ---
