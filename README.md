@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because Willian joined Arsenal
+because David Luiz joined Arsenal
 <!-- crisis_item ends -->
 
 ---
