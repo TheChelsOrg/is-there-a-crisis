@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because a trip to Russia one week before the new season
+because loaning out Michy and signing Olivier too late to play
 <!-- crisis_item ends -->
 
 ---
