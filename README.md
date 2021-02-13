@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because loaning out Michy and signing Olivier too late to play
+because medical team
 <!-- crisis_item ends -->
 
 ---
