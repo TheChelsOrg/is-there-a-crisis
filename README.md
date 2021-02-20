@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because too many loan players
+because Paul - a bit racist - Scholes lied when he said we had no English in our youth team
 <!-- crisis_item ends -->
 
 ---
