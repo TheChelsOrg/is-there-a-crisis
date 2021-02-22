@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because Diego Costa has self control (unlike Gabriel)
+because TBO got megged twice by Messi
 <!-- crisis_item ends -->
 
 ---
