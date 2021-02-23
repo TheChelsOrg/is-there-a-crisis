@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because TBO got megged twice by Messi
+because Ken Bates wanted electric fences
 <!-- crisis_item ends -->
 
 ---
