@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because Ken Bates wanted electric fences
+because injured goalkeeper(s)
 <!-- crisis_item ends -->
 
 ---
