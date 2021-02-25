@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because injured goalkeeper(s)
+because interest in Andy Carroll
 <!-- crisis_item ends -->
 
 ---
