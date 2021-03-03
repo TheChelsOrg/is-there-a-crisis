@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because Chelsea breaking FFP rules by spending over £200 million on Werner et al
+because John Stones
 <!-- crisis_item ends -->
 
 ---
