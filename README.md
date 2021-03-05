@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because Cash For Chelsea 1977
+because we did not sign Paul Pogba
 <!-- crisis_item ends -->
 
 ---
