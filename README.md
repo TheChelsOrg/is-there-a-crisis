@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because we did not sign Paul Pogba
+because Manchester has all the money
 <!-- crisis_item ends -->
 
 ---
