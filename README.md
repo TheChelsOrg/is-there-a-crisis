@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because Manchester has all the money
+because one win in seven under Mourinho
 <!-- crisis_item ends -->
 
 ---
