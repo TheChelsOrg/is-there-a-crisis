@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because injured goalkeeper(s)
+because Willian joined Arsenal
 <!-- crisis_item ends -->
 
 ---
