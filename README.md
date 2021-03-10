@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because Willian joined Arsenal
+because the secret footballer lies
 <!-- crisis_item ends -->
 
 ---
