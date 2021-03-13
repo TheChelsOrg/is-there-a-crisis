@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because Chris Foy			
+because loaning out Michy and signing Olivier too late to play
 <!-- crisis_item ends -->
 
 ---
