@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because John Stones
+because Branislav Ivanovic
 <!-- crisis_item ends -->
 
 ---
