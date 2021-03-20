@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because interim management
+because Conte and match fixing allegations
 <!-- crisis_item ends -->
 
 ---
