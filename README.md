@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because not winning 14th game in a row
+because shit players are less shit when on loan overseas
 <!-- crisis_item ends -->
 
 ---
