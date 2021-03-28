@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because loaning out Michy and signing Olivier too late to play
+because Paris Metro
 <!-- crisis_item ends -->
 
 ---
