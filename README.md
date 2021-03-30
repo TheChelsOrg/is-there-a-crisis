@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because Ken Bates wanted electric fences
+because financial fair play
 <!-- crisis_item ends -->
 
 ---
