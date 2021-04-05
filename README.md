@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because signing a player from Reading
+because Eden Hazard is already in Paris/Madrid
 <!-- crisis_item ends -->
 
 ---
