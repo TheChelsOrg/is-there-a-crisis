@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because Eden Hazard is already in Paris/Madrid
+because Ben Smith asks stupid questions
 <!-- crisis_item ends -->
 
 ---
