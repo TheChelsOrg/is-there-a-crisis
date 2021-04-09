@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because Ken Bates wanted electric fences
+because Gary Cahill drops off
 <!-- crisis_item ends -->
 
 ---
