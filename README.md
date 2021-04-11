@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because Jose Mourinho
+because Cash For Chelsea 1977
 <!-- crisis_item ends -->
 
 ---
