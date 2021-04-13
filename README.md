@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because loaning out Michy and signing Olivier too late to play
+because we lost to Tottenham at home
 <!-- crisis_item ends -->
 
 ---
