@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because we lost to Tottenham at home
+because too many loan players
 <!-- crisis_item ends -->
 
 ---
