@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because Chelsea breaking FFP rules by spending over £200 million on Werner et al
+because we switched to 3-4-3
 <!-- crisis_item ends -->
 
 ---
