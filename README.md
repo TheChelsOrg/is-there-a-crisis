@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because TBO got megged twice by Messi
+because dropping Costa for Hazard as a false nine
 <!-- crisis_item ends -->
 
 ---
