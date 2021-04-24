@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because Adrian Mutu
+because Ken Bates wanted electric fences
 <!-- crisis_item ends -->
 
 ---
