@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because Ken Bates wanted electric fences
+because dropping Costa for Hazard as a false nine
 <!-- crisis_item ends -->
 
 ---
