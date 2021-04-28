@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because Anthony Taylor
+because Kepa was the most expensive goal keeper in the world and conceding over 50 goals
 <!-- crisis_item ends -->
 
 ---
