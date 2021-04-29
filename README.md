@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because Kepa was the most expensive goal keeper in the world and conceding over 50 goals
+because player would rather lose than win for Mourinho
 <!-- crisis_item ends -->
 
 ---
