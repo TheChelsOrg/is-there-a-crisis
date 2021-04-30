@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because player would rather lose than win for Mourinho
+because Adrian Mutu
 <!-- crisis_item ends -->
 
 ---
