@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because Adrian Mutu
+because VAR does not like Chelsea
 <!-- crisis_item ends -->
 
 ---
