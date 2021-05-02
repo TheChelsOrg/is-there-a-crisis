@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because VAR does not like Chelsea
+because we lost to Tottenham at home
 <!-- crisis_item ends -->
 
 ---
