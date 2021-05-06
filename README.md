@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because Cash For Chelsea 1977
+because Roberto Martinez is unhappy
 <!-- crisis_item ends -->
 
 ---
