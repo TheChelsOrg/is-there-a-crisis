@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because Eva Carneiro
+because medical team
 <!-- crisis_item ends -->
 
 ---
