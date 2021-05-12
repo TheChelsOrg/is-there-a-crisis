@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because signing a player from Reading
+because Diego Costa threw his bib
 <!-- crisis_item ends -->
 
 ---
