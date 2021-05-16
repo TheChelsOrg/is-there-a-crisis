@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because Diego Costa has self control (unlike Gabriel)
+because Gary Cahill drops off
 <!-- crisis_item ends -->
 
 ---
