@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because Gary Cahill drops off
+because financial fair play
 <!-- crisis_item ends -->
 
 ---
