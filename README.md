@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because financial fair play
+because we switched to 3-6-1
 <!-- crisis_item ends -->
 
 ---
