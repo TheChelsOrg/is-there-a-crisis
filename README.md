@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because too many loan players
+because Diego Costa has self control (unlike Gabriel)
 <!-- crisis_item ends -->
 
 ---
