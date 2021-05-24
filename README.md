@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because Save The Bridge 1982
+because losing 0-3 at home to Bournemouth
 <!-- crisis_item ends -->
 
 ---
