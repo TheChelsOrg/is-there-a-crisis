@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because losing 0-3 at home to Bournemouth
+because Adrian Mutu
 <!-- crisis_item ends -->
 
 ---
