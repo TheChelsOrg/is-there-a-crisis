@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because Bakayoko red card and losing 4-1 to Watford
+because Diego Costa looked at Skrtel whilst Charlie Adam attempted murder
 <!-- crisis_item ends -->
 
 ---
