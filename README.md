@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because shit players are less shit when on loan overseas
+because dropping Costa for Hazard as a false nine
 <!-- crisis_item ends -->
 
 ---
