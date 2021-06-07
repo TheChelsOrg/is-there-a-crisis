@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because dropping Costa for Hazard as a false nine
+because Cash For Chelsea 1977
 <!-- crisis_item ends -->
 
 ---
