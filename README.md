@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because Cash For Chelsea 1977
+because two defeats in first 100 Premier League home games under Mourinho
 <!-- crisis_item ends -->
 
 ---
