@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because two defeats in first 100 Premier League home games under Mourinho
+because Michy scored 5 goals in 3 games for Dortmund
 <!-- crisis_item ends -->
 
 ---
