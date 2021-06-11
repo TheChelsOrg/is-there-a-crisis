@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because not winning 14th game in a row
+because Paul - a bit racist - Scholes lied when he said we had no English in our youth team
 <!-- crisis_item ends -->
 
 ---
