@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because 'filha da puta'
+because injured goalkeeper(s)
 <!-- crisis_item ends -->
 
 ---
