@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because China has all the money
+because interim management
 <!-- crisis_item ends -->
 
 ---
