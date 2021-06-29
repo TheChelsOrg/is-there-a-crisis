@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because Wayne Bridge
+because Diego Costa looked at Skrtel whilst Charlie Adam attempted murder
 <!-- crisis_item ends -->
 
 ---
