@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because Chelsea breaking FFP rules by spending over £200 million on Werner et al
+because Kepa was the most expensive goal keeper in the world and conceding over 50 goals
 <!-- crisis_item ends -->
 
 ---
