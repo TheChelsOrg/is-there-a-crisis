@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because Conte and match fixing allegations
+because transfer window
 <!-- crisis_item ends -->
 
 ---
