@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because transfer window
+because shit players are less shit when on loan overseas
 <!-- crisis_item ends -->
 
 ---
