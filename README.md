@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because shit players are less shit when on loan overseas
+because Cash For Chelsea 1977
 <!-- crisis_item ends -->
 
 ---
