@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because Cash For Chelsea 1977
+because recalling home-grown loan players to add to first team
 <!-- crisis_item ends -->
 
 ---
