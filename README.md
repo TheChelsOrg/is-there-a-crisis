@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because not winning 14th game in a row
+because of Youtubers outside the Bridge
 <!-- crisis_item ends -->
 
 ---
