@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because of Youtubers outside the Bridge
+because recalling home-grown loan players to add to first team
 <!-- crisis_item ends -->
 
 ---
