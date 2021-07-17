@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because two defeats in first 100 Premier League home games under Mourinho
+because Paul - a bit racist - Scholes lied when he said we had no English in our youth team
 <!-- crisis_item ends -->
 
 ---
