@@ -5,7 +5,7 @@
 Yes,
 
 <!-- crisis_item starts -->
-because Cash For Chelsea 1977
+because the secret footballer lies
 <!-- crisis_item ends -->
 
 ---
